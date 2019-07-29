@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sudoku\untitled\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0beaf9c6a7e8c6575b844d9e83d0f22bd4859671">
+        <dex dex="D:\sudoku\untitled\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_adcf06b99ef193e553873e2fd326466bb773b209.jar" />
+    </item>
+
+</items>

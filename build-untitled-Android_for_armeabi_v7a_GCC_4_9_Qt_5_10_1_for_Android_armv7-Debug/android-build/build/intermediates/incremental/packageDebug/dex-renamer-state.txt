@@ -1,0 +1,4 @@
+#Tue Oct 09 11:26:01 CST 2018
+base.0=D\:\\sudoku\\build-untitled-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_1_for_Android_armv7-Debug\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\sudoku\\build-untitled-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_1_for_Android_armv7-Debug\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sudoku\build-untitled-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_1_for_Android_armv7-Debug\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0beaf9c6a7e8c6575b844d9e83d0f22bd4859671">
+        <dex dex="D:\sudoku\build-untitled-Android_for_armeabi_v7a_GCC_4_9_Qt_5_10_1_for_Android_armv7-Debug\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_d4f7f041d7fbab909316a23bb1b9fcbcebcea3f1.jar" />
+    </item>
+
+</items>
